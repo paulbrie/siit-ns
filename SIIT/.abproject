@@ -1,0 +1,28 @@
+{
+  "ProjectName": "SIIT",
+  "ProjectGuid": "0c284e5f-af18-438d-ab91-aaf97beb3a39",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.SIIT",
+  "DisplayName": "SIIT",
+  "Author": "",
+  "Description": "SIIT",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{F0A65104-D4F4-4012-B799-F612D75820F6}",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "FrameworkVersion": "1.2.3",
+  "Framework": "NativeScript"
+}
