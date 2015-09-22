@@ -1,0 +1,8 @@
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoad">
+	<Page.actionBar>
+		<ActionBar title="SIIT">
+			<NavigationButton text="go back" tap="goBack"/>
+		</ActionBar>
+	</Page.actionBar>
+  <Label id="Label1" text="Clients page" />
+</Page>

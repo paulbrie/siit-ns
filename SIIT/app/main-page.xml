@@ -1,3 +1,11 @@
-<Page xmlns="http://www.nativescript.org/tns.xsd" >
-  <!-- UI Decalration -->
+<Page xmlns="http://www.nativescript.org/tns.xsd" loaded="onLoad" >
+    <Page.actionBar>
+      <ActionBar title="SIIT2" style="background-color: #CCC;">
+      	<Label></Label>
+      </ActionBar>
+    </Page.actionBar>
+    <StackLayout style="padding:10px">
+    	<Button text="clearConsole" tap="loadClientsPage" />
+        <TextView id="console" height="1000" hint="console" />
+    </StackLayout>
 </Page>
