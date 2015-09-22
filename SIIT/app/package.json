@@ -1,20 +1,23 @@
 {
-    "name": "tns-template-blank",
-    "main": "app.js",
-    "version": "1.2.0",
-    "author": "Telerik <support@telerik.com>",
-    "description": "Nativescript blank project template",
-    "license": "BSD",
-    "keywords": [
-        "telerik",
-        "mobile",
-        "nativescript",
-        "{N}",
-        "tns",
-        "appbuilder",
-        "template"
-    ],
-    "repository": {
-        "url": "https://github.com/NativeScript/NativeScript/commit/06ddbf133a1c022a9ec61dc442d7f7ce0841c915"
-    }
+  "name": "tns-template-blank",
+  "main": "app.js",
+  "version": "1.2.0",
+  "author": "Telerik <support@telerik.com>",
+  "description": "Nativescript blank project template",
+  "license": "BSD",
+  "keywords": [
+    "telerik",
+    "mobile",
+    "nativescript",
+    "{N}",
+    "tns",
+    "appbuilder",
+    "template"
+  ],
+  "repository": {
+    "url": "https://github.com/NativeScript/NativeScript/commit/06ddbf133a1c022a9ec61dc442d7f7ce0841c915"
+  },
+  "dependencies": {
+    "socket.io-client": "^1.3.7"
+  }
 }
